@@ -1,5 +1,5 @@
 # 💼 SaaS Sales Data Cleaning & Preparation
-**Capstone Project 2 – JCDS BSD**
+**Capstone Project 2 – JCDS BSD Muhamad Farhan Budiana**
 
 Proyek ini merupakan bagian dari Capstone Project yang berfokus pada proses *data cleaning* dan *data preparation* terhadap dataset penjualan perusahaan **Software as a Service (SaaS)**.  
 Tujuannya adalah memastikan dataset siap digunakan untuk analisis eksploratif dan visualisasi di Tableau.
