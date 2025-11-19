@@ -66,3 +66,6 @@ Langkah-langkah utama yang dilakukan:
 - Mengidentifikasi anomali dengan boxplot & IQR  
 - Menemukan nilai *Profit Margin* yang tidak realistis (>100%)  
 - Menyesuaikan rumus perhitungan:  
+
+### Dashboard
+https://public.tableau.com/app/profile/muhamad.farhan.budiana/viz/DashboardSaaSSales-MuhamadFarhanBudiana/AWSSaaSSalesPerformanceDashboard?publish=yes
