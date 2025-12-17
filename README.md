@@ -1,10 +1,10 @@
-# 💼 SaaS Sales Data Cleaning & Preparation  
-**Capstone Project 2 — JCDS BSD**  
+#  SaaS Sales Data Cleaning & Preparation  
+**Capstone Project 2 — Purwadhika Digital School JCDS BSD**  
 **Author:** Muhamad Farhan Budiana  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **data cleaning and data preparation** for a simulated  
 **Software as a Service (SaaS) sales dataset**.
 
@@ -16,7 +16,7 @@ which is critical for producing accurate and reliable business insights.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Prepare raw SaaS sales data for analysis and visualization  
 - Identify and resolve data quality issues (missing values, duplicates, anomalies)  
 - Ensure consistent data types and realistic business metrics  
@@ -24,7 +24,7 @@ which is critical for producing accurate and reliable business insights.
 
 ---
 
-## 🏢 Business Context
+##  Business Context
 The dataset represents a **fictional SaaS company** that provides subscription-based software  
 solutions to corporate clients across multiple regions and customer segments.
 
@@ -40,7 +40,7 @@ This project simulates a real-world scenario where high-quality data is essentia
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 - **Raw dataset:** `SaaS-Sales.csv`  
 - **Clean dataset:** `SaaS-Sales-Clean.csv`  
 - **Data source:** Kaggle — *AWS SaaS Sales Dataset*  
